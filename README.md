@@ -31,10 +31,6 @@ Ce projet implémente un web service basé sur JAX-WS permettant la conversion d
 ### Prérequis
 - Java JDK 8 ou supérieur.
 - Serveur d'applications (exemple : Tomcat ou un serveur intégré JAX-WS).
-- Outil de test (SoapUI ou Oxygen).
+- Outil de test SoapUI ou Oxygen.
 
-### Instructions
-1. **Cloner le projet** :
-   ```bash
-   git clone https://github.com/username/project-name.git
-   cd project-name
+
